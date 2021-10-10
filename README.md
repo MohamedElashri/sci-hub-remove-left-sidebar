@@ -15,3 +15,4 @@ Available for Google Chrome and Mozilla Firefox in the following extension repos
 ## Related
 
 Related extensions include [Piss off, publisher frames!](https://chrome.google.com/webstore/detail/piss-off-publisher-frames/ffmffcaeblfpligkklopofadiemkelld) and [Remove That Scihub Lady](https://chrome.google.com/webstore/detail/remove-that-scihub-lady/dcfcfhinhhaeaeichkdaanmccijhcgaf). The former will similarly remove the Sci-Hub left sidebar, while the latter will only hide the [Alexandra Elbakyan](https://en.wikipedia.org/wiki/Alexandra_Elbakyan) animation.
+
