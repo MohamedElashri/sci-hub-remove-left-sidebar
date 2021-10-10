@@ -9,8 +9,8 @@ Available for Google Chrome and Mozilla Firefox in the following extension repos
 
 ## Screenshot
 
-|---|
 | ![](screenie.png) |
+|---|
 | Sci-Hub Remove Left Sidebar in Google Chrome on Windows. |
 
 ## Related
