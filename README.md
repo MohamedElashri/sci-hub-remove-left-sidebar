@@ -9,7 +9,8 @@ Available for Google Chrome and Mozilla Firefox in the following extension repos
 
 ## Screenshot
 
-![](screenie.png)
+|---|
+| ![](screenie.png) |
 
 ## Related
 
