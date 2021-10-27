@@ -6,7 +6,7 @@
     "content_scripts": [
         {
             "matches": [
-                "http://sci-hub.tw/*", "https://sci-hub.tw/*", "http://sci-hub.se/*", "https://sci-hub.se/*", "http://sci-hub.st/*", "https://sci-hub.st/*", "http://sci-hub.do/*", "https://sci-hub.do/*", "http://sci-hub.it.nf/*", "https://sci-hub.it.nf/*", "http://sci-hub.im/*", "https://sci-hub.im/*", "http://scihubtw.tw/*", "https://scihubtw.tw/*", "http://sci-hub.ren/*", "https://sci-hub.ren/*,https://sci-hub.ru/*"
+                "http://sci-hub.tw/*", "https://sci-hub.tw/*", "http://sci-hub.se/*", "https://sci-hub.se/*", "http://sci-hub.st/*", "https://sci-hub.st/*", "http://sci-hub.do/*", "https://sci-hub.do/*", "http://sci-hub.it.nf/*", "https://sci-hub.it.nf/*", "http://sci-hub.im/*", "https://sci-hub.im/*", "http://scihubtw.tw/*", "https://scihubtw.tw/*", "http://sci-hub.ren/*", "https://sci-hub.ren/*","https://sci-hub.ru/*"
             ],
             "js": [
                 "content.js"
